@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Nickolas Andre 👋
 
-- 🌱 Estudando HTML | CSS e JavaScript
+- 🌱 Estudando Front-end.
 - 📫 Contate-me no email: nickolas200@live.com
 
 <div align="center">
