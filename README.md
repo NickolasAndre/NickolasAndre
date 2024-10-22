@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Nickolas Andre 👋
 
+👨‍💻 Sou um desenvolvedor front-end com foco em criar soluções web. Atualmente, estou cursando Engenharia de Software, onde aprofundo meus conhecimentos em programação e desenvolvimento.
+
 - 🌱 Estudando Front-end.
 - 📫 Contate-me no email: nickolas200@live.com
 
